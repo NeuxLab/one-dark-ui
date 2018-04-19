@@ -14,9 +14,6 @@
   "engines": {
     "cc": ">=1.0.0"
   },
-  "devDependencies": {
-    "coffeelint": "^1.9.7"
-  },
   "configSchema": {
     "fontSize": {
       "title": "Font Size",
