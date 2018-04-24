@@ -1,0 +1,8 @@
+.DS_Store
+.npmignore
+.travis.yml
+.pairs
+*.md
+coffeelint.json
+npm-debug.log
+/spec
